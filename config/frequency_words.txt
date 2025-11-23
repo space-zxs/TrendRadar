@@ -3,25 +3,21 @@ DeepSeek
 Google
 Gemini
 Nono Banana
-AI
 
 OpenAI
 gpt
-AI
 
 Meta
-AI
++AI
 
 千问
 Qwen
-AI
 
 豆包
 即梦
-AI
 
 马斯克
-Grok
++Grok
 
 Anita Schjøll Brede.
 于尔根·施密德胡贝尔
@@ -61,8 +57,7 @@ ai
 AGI
 
 
-科技
-+大模型
+大模型
 
 文生图
 文生视频
