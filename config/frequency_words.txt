@@ -1,65 +1,47 @@
-胖东来
-于东来
-
 DeepSeek
-梁文锋
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+Google
+Gemini
+Nono Banana
+AI
 
-比亚迪
-王传福
+OpenAI
+gpt
+AI
 
-大疆
-DJI
+Meta
+AI
 
-宇树
-王兴兴
+千问
+Qwen
+AI
 
-智元
-灵犀
-稚晖君
-彭志辉
+豆包
+即梦
+AI
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
 马斯克
+Grok
 
-微软
-Microsoft
+Anita Schjøll Brede.
+于尔根·施密德胡贝尔
+李飞飞
+多里安·塞尔兹
+理查德·索切尔
+德米斯·哈萨比斯
+安德斯·哈德布林
+Le Cun
+杨立昆
+
+
+大模型
++最新
++效果
 
 英伟达
 NVIDIA
 黄仁勋
 
-AMD
 
 谷歌
 google
@@ -73,41 +55,17 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
+AGI
 
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
 
 科技
++大模型
 
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+文生图
+文生视频
+图生图
+图生视频
+AI创意
